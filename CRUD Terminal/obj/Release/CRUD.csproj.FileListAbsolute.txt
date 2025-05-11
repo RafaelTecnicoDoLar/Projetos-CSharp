@@ -1,0 +1,28 @@
+D:\VsCode\CRUD\bin\Release\CRUD.exe.config
+D:\VsCode\CRUD\bin\Release\CRUD.exe.manifest
+D:\VsCode\CRUD\bin\Release\CRUD.application
+D:\VsCode\CRUD\bin\Release\CRUD.exe
+D:\VsCode\CRUD\bin\Release\CRUD.pdb
+D:\VsCode\CRUD\bin\Release\Newtonsoft.Json.dll
+D:\VsCode\CRUD\bin\Release\Newtonsoft.Json.xml
+D:\VsCode\CRUD\obj\Release\CRUD.csproj.AssemblyReference.cache
+D:\VsCode\CRUD\obj\Release\CRUD.csproj.CoreCompileInputs.cache
+D:\VsCode\CRUD\obj\Release\CRUD.exe.manifest
+D:\VsCode\CRUD\obj\Release\CRUD.application
+D:\VsCode\CRUD\obj\Release\CRUD.csproj.Up2Date
+D:\VsCode\CRUD\obj\Release\CRUD.exe
+D:\VsCode\CRUD\obj\Release\CRUD.pdb
+D:\VsCode\Projetos em andamento\CRUD\bin\Release\CRUD.exe.config
+D:\VsCode\Projetos em andamento\CRUD\bin\Release\CRUD.exe.manifest
+D:\VsCode\Projetos em andamento\CRUD\bin\Release\CRUD.application
+D:\VsCode\Projetos em andamento\CRUD\bin\Release\CRUD.exe
+D:\VsCode\Projetos em andamento\CRUD\bin\Release\CRUD.pdb
+D:\VsCode\Projetos em andamento\CRUD\bin\Release\Newtonsoft.Json.dll
+D:\VsCode\Projetos em andamento\CRUD\bin\Release\Newtonsoft.Json.xml
+D:\VsCode\Projetos em andamento\CRUD\obj\Release\CRUD.csproj.AssemblyReference.cache
+D:\VsCode\Projetos em andamento\CRUD\obj\Release\CRUD.csproj.CoreCompileInputs.cache
+D:\VsCode\Projetos em andamento\CRUD\obj\Release\CRUD.exe.manifest
+D:\VsCode\Projetos em andamento\CRUD\obj\Release\CRUD.application
+D:\VsCode\Projetos em andamento\CRUD\obj\Release\CRUD.csproj.Up2Date
+D:\VsCode\Projetos em andamento\CRUD\obj\Release\CRUD.exe
+D:\VsCode\Projetos em andamento\CRUD\obj\Release\CRUD.pdb

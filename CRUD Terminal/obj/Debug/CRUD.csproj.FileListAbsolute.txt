@@ -1,0 +1,24 @@
+D:\VsCode\CRUD\bin\Debug\CRUD.exe.config
+D:\VsCode\CRUD\bin\Debug\CRUD.exe
+D:\VsCode\CRUD\bin\Debug\CRUD.pdb
+D:\VsCode\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+D:\VsCode\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+D:\VsCode\CRUD\obj\Debug\CRUD.exe
+D:\VsCode\CRUD\obj\Debug\CRUD.pdb
+D:\VsCode\CRUD\bin\Debug\Newtonsoft.Json.dll
+D:\VsCode\CRUD\bin\Debug\Newtonsoft.Json.xml
+D:\VsCode\CRUD\obj\Debug\CRUD.csproj.Up2Date
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\bin\Debug\CRUD.exe.manifest
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\bin\Debug\CRUD.application
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\bin\Debug\CRUD.exe
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\bin\Debug\CRUD.pdb
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\obj\Debug\CRUD.exe.manifest
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\obj\Debug\CRUD.application
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\obj\Debug\CRUD.csproj.Up2Date
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\obj\Debug\CRUD.exe
+C:\Users\rjona\OneDrive\Área de Trabalho\Pasta\Projetos\Repositorio GitHub\Projetos em andamento\CRUD\obj\Debug\CRUD.pdb

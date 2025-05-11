@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|c:\\users\\rjona\\onedrive\\\u00E1rea de trabalho\\pasta\\projetos\\repositorio github\\projetos em andamento\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\bin\\Debug\\Lista.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\Lista.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\atributos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|solutionrelative:atributos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\deletar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|solutionrelative:deletar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|solutionrelative:atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\criar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|solutionrelative:criar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\ler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5E1779-BFD2-422A-9CE0-718B5B3E345E}|CRUD.csproj|solutionrelative:ler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:46:59.425Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Atributos.cs",
+              "DocumentMoniker": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Atributos.cs",
+              "RelativeDocumentMoniker": "Atributos.cs",
+              "ToolTip": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Atributos.cs",
+              "RelativeToolTip": "Atributos.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:56:18.658Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwDgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:57:55.7Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Criar.cs",
+              "DocumentMoniker": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Criar.cs",
+              "RelativeDocumentMoniker": "Criar.cs",
+              "ToolTip": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Criar.cs",
+              "RelativeToolTip": "Criar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:42:01.74Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ler.cs",
+              "DocumentMoniker": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Ler.cs",
+              "RelativeDocumentMoniker": "Ler.cs",
+              "ToolTip": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Ler.cs",
+              "RelativeToolTip": "Ler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:46:37.431Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Atualizar.cs",
+              "DocumentMoniker": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Atualizar.cs",
+              "RelativeDocumentMoniker": "Atualizar.cs",
+              "ToolTip": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Atualizar.cs",
+              "RelativeToolTip": "Atualizar.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:51:48.138Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deletar.cs",
+              "DocumentMoniker": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Deletar.cs",
+              "RelativeDocumentMoniker": "Deletar.cs",
+              "ToolTip": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\Deletar.cs",
+              "RelativeToolTip": "Deletar.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:53:24.739Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista.json",
+              "DocumentMoniker": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\bin\\Debug\\Lista.json",
+              "RelativeDocumentMoniker": "bin\\Debug\\Lista.json",
+              "ToolTip": "C:\\Users\\rjona\\OneDrive\\\u00C1rea de Trabalho\\Pasta\\Projetos\\Repositorio GitHub\\Projetos em andamento\\CRUD\\bin\\Debug\\Lista.json",
+              "RelativeToolTip": "bin\\Debug\\Lista.json",
+              "ViewState": "AQIAAEUBAAAAAAAAAAAAAEsBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T22:30:30.894Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

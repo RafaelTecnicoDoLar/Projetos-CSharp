@@ -1,0 +1,80 @@
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\0040482512031\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Trabalhos\RafaelMombelli\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Trabalhos\RafaelMombelli\Projetos em C#\PsicologoSUSGPT\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
